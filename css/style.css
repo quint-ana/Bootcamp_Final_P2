@@ -17,6 +17,16 @@
   .dropdown-menu {
     background-color: #D96C6C;
   }
+
+  /*Top Donate Now button*/
+
+.donate-btn {
+  margin-left: 250px;
+  font-size: 0px;
+  margin: 3px;
+  margin-top: 35px;
+  float: right;
+}
   
   /*start of example nav*/
   
@@ -140,7 +150,7 @@
   
   button {
     justify-content: center;
-    background-color: #D96C6C !important;
+    background-color: #80D9BA !important;
     border-color: #D96C6C;
     color: white;
   }
